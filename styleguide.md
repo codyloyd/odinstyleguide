@@ -38,11 +38,7 @@ Links in markdown are created by pairing brackets and parentheses like so:
 ```
 
 Blocks of code included in the article are should be surrounded by three backticks (on either side) of the block.  To include syntax highlighting you need to specify the language you're using like so:
-```
-  ``` language-ruby
-    block of code goes here
-  ```
-```
+` ```language-ruby `
 
 Inline code snippets can be set apart by using a single backtick on either side.
 
